@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">OntTest</string>
+    <string name="button_activity_main">복구하기</string>
+    <string name="text1_activity_check_device">1. 기기 연결상태를 확인하세요</string>
+    <string name="text2_activity_check_device">ONT 뒷면의 안테나 LED가 초록색이면 아래 시작하기 버튼을 눌러주세요</string>
+    <string name="button_activity_check_device">시작하기</string>
+    <string name="text1_activity_connect_wifi">2. ONT의 Wi-Fi에 연결하세요</string>
+    <string name="text2_activity_connect_wifi">설정>연결>Wi-Fi 메뉴에서 \&quot;KT-ONT-시리얼번호\&quot; 와이파이에 연결하세요</string>
+    <string name="button_activity_connect_wifi">다음</string>
+    <string name="text1_activity_find_password">3. 핫스팟 이름과 비밀번호를 확인하세요</string>
+    <string name="text2_activity_find_password">설정>연결>모바일 핫스팟 및 테더링>모바일 핫스팟 메뉴에서 이름과 비밀번호를 확인하세요 </string>
+    <string name="button_activity_find_password">다음</string>
+    <string name="text1_activity_input_password">4. 핫스팟 이름과 비밀번호를 입력하세요</string>
+    <string name="text2_activity_input_password">휴대장치에 설정하신 핫스팟의 이름과 비밀번호를 정확하게 입력해주세요</string>
+    <string name="edit1label_activity_input_password">이름</string>
+    <string name="edit1_activity_input_password"></string>
+    <string name="edit2label_activity_input_password">비밀번호</string>
+    <string name="edit2_activity_input_password">핫스팟 비밀번호</string>
+    <string name="button_activity_input_password">다음</string>
+    <string name="text1_activity_turnon_hotspot">5. 모바일 핫스팟을 켜세요</string>
+    <string name="text2_activity_turnon_hotspot">설정>연결>모바일 핫스팟 및 테더링>모바일 핫스팟 메뉴에서 \&quot;사용 중\&quot;으로 설정해주세요</string>
+    <string name="button_activity_turnon_hotspot">다음</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
